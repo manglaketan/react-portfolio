@@ -1,0 +1,121 @@
+{
+	"main": {
+		"name": "Ketan Mangla",
+		"occupation": "Student and Full Stack Web Developer",
+		"description": "Never hesitating to learn new things and work on novel ideas",
+		"image": "Ketan Mangla Photo.png",
+		"bio": "Hiya, It is Ketan here. I am currently a student pursuing a degree in Computer Science and Engineering. I have acquired many skills along the degree program and through self learning which would be beneficial in the industry. I'm aspiring to work as a Freelancer and apply my skills to make a change in the society.",
+		"contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+		"email": "manglaketan08@gmail.com",
+		"phone": "+91 99337 24410",
+		"address": {
+			"street": "Upper Bazar, Rangpo",
+			"city": "Sikkim",
+			"state": "India",
+			"zip": "737132"
+		},
+		"website": "https://bit.ly/Ketan-Mangla-Resume",
+		"resumedownload": "https://bit.ly/Ketan-Mangla-Resume",
+		"social": [
+			{
+				"name": "facebook",
+				"url": "https://www.facebook.com/ketan.mangla.9/",
+				"className": "fa fa-facebook"
+			},
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/ketanmangla/",
+				"className": "fa fa-linkedin"
+			},
+			{
+				"name": "instagram",
+				"url": "https://www.instagram.com/ketan.mangla/",
+				"className": "fa fa-instagram"
+			},
+			{
+				"name": "github",
+				"url": "https://github.com/manglaketan",
+				"className": "fa fa-github"
+			}
+		]
+	},
+	"resume": {
+		"skillmessage": "Once you stop learning, you start dying. Learning new skills and adapting to the changing scenarios has been my forte.",
+		"education": [
+			{
+				"school": "Sikkim Manipal Institute of Technology",
+				"degree": "Bachelors in Technology (Computer Science)",
+				"graduated": "2017- Present",
+				"description": "Along my degree course, I have gathered the theoretical knowledge for a wide range of subjects including but not limited to Computer Networking, Data Structures & Algorithms, Operating Systems, Deep Learning and more."
+			}
+		],
+		"work": [
+			{
+				"company": "Dell Technologies",
+				"title": "Intern Undergraduate",
+				"years": "May 2020 - July 2020",
+				"description": "At my time with Dell, I worked in the Performance Engineering team building automation scripts for UI testing to be deployed on their DevOps pipeline."
+			},
+			{
+				"company": "MicroPro",
+				"title": "Trainee",
+				"years": "May 2019 - June 2019",
+				"description": "Learning Android Development with the Native Android SDK and Firebase."
+			}
+		],
+		"skills": [
+			{
+				"name": "HTML5",
+				"level": "80%"
+			},
+			{
+				"name": "CSS",
+				"level": "75%"
+			},
+			{
+				"name": "NodeJS",
+				"level": "65%"
+			},
+			{
+				"name": "Python",
+				"level": "90%"
+			},
+			{
+				"name": "C/C++",
+				"level": "80%"
+			},
+			{
+				"name": "Data Structures and Algorithms",
+				"level": "85%"
+			},
+			{
+				"name": "Flutter",
+				"level": "70%"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": "YelpCamp",
+				"category": "A Camping Grounds App built with Node, Express, MongoDB, Bootstrap",
+				"image": "yelpcamp.jpg",
+				"url": "https://github.com/manglaketan/yelp-camp"
+			},
+			{
+				"title": "Connect",
+				"category": "A Mobile Application using Flutter and Firebase",
+				"image": "Connect.png",
+				"url": "https://github.com/manglaketan/MiniP"
+			}
+		]
+	},
+	"testimonials": {
+		"testimonials": [
+			{
+				"text": "Working with Ketan was a wonderful experience. He showed dedication towards his work and always was very helpful to everyone.",
+				"user": "Sweta Agarwal"
+			}
+		]
+	}
+}
